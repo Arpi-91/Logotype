@@ -1,5 +1,4 @@
 export const actions = {
-    ITEM:'ITEM',
-    INPUT_VALUE: "INPUT_VALUE"
-    
-}
+  FILTER_BY_CATEGORY: "FILTER_BY_CATEGORY",
+  FILTER_BY_INPUT_VALUE: "FILTER_BY_INPUT_VALUE",
+};
